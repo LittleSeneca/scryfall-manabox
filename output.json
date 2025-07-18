@@ -1,0 +1,1764 @@
+[
+  {
+    "name": "Wild Ride",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "132",
+    "rarity": "common",
+    "scryfall_id": "abc8c6f5-6135-428e-8476-1751f82623f9",
+    "mana_box_id": "105154",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target creature gets +3/+0 and gains haste until end of turn.\nHarmonize {4}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Harmonize"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Vandalblast",
+    "quantity": 1,
+    "set_name": "Outlaws of Thunder Junction Commander",
+    "collector_number": "183",
+    "rarity": "uncommon",
+    "scryfall_id": "e781b55f-6388-4ab8-be74-7c56eaba1c4d",
+    "mana_box_id": "93908",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Overload"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Chain Reaction",
+    "quantity": 1,
+    "set_name": "Phyrexia: All Will Be One Commander",
+    "collector_number": "97",
+    "rarity": "rare",
+    "scryfall_id": "86ac292c-070e-439f-9c25-f4037cf1edd5",
+    "mana_box_id": "78678",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Rite of Renewal",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "153",
+    "rarity": "uncommon",
+    "scryfall_id": "f737698a-d934-4851-b238-828959ef4835",
+    "mana_box_id": "104390",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Return up to two target permanent cards from your graveyard to your hand. Target player shuffles up to four target cards from their graveyard into their library. Exile Rite of Renewal.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Shamanic Revelation",
+    "quantity": 1,
+    "set_name": "Bloomburrow Commander",
+    "collector_number": "237",
+    "rarity": "rare",
+    "scryfall_id": "b4e193e8-1127-475b-9af6-d0d0c44adf49",
+    "mana_box_id": "96431",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Ferocious"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Cultivate",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "253",
+    "rarity": "common",
+    "scryfall_id": "6bb4dff5-4486-4ba5-9b85-9f005d988108",
+    "mana_box_id": "104712",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Harmonize",
+    "quantity": 1,
+    "set_name": "Duskmourn: House of Horror Commander",
+    "collector_number": "182",
+    "rarity": "uncommon",
+    "scryfall_id": "839b9c4c-0752-4d4f-abbb-ec2c9f9e55fa",
+    "mana_box_id": "99236",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Draw three cards.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Primal Might",
+    "quantity": 1,
+    "set_name": "Foundations",
+    "collector_number": "643",
+    "rarity": "rare",
+    "scryfall_id": "9ae57d6b-15e8-4f2a-97c2-76d801a1a42a",
+    "mana_box_id": "100877",
+    "mana_cost": "{X}{G}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Fight"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Hunter's Prowess",
+    "quantity": 1,
+    "set_name": "Explorers of Ixalan",
+    "collector_number": "33",
+    "rarity": "rare",
+    "scryfall_id": "2c0e5ac0-48f2-44c2-814e-9bc90ff01760",
+    "mana_box_id": "3342",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\"",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Atarka, World Render",
+    "quantity": 1,
+    "set_name": "Starter Commander Decks",
+    "collector_number": "1",
+    "rarity": "mythic",
+    "scryfall_id": "719f172b-f9ad-4960-af66-757eb54147f6",
+    "mana_box_id": "74575",
+    "mana_cost": "{5}{R}{G}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn.",
+    "power": "6",
+    "toughness": "4",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Trample"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Furnace Whelp",
+    "quantity": 1,
+    "set_name": "Iconic Masters",
+    "collector_number": "129",
+    "rarity": "common",
+    "scryfall_id": "1267597a-bbfe-4fb7-91b7-7fee371f0dfd",
+    "mana_box_id": "3496",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Verix Bladewing",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "243",
+    "rarity": "mythic",
+    "scryfall_id": "5d951996-3379-431d-bbb0-a7d099e72e4e",
+    "mana_box_id": "104674",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nFlying\nWhen Verix enters, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Kicker",
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Foe-Razer Regent",
+    "quantity": 1,
+    "set_name": "Dragons of Tarkir",
+    "collector_number": "187",
+    "rarity": "rare",
+    "scryfall_id": "04a266c3-de47-4e94-bdc4-210e34981de3",
+    "mana_box_id": "11627",
+    "mana_cost": "{5}{G}{G}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, you may have it fight target creature you don't control.\nWhenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flying",
+      "Fight"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Thundermaw Hellkite",
+    "quantity": 1,
+    "set_name": "Iconic Masters",
+    "collector_number": "149",
+    "rarity": "mythic",
+    "scryfall_id": "a75f6bb4-ab06-42ca-a0df-326d9a098a26",
+    "mana_box_id": "3476",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhen this creature enters, it deals 1 damage to each creature with flying your opponents control. Tap those creatures.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Haste"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Rapacious Dragon",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "229",
+    "rarity": "uncommon",
+    "scryfall_id": "1098504a-977a-4733-a1ee-086461113a84",
+    "mana_box_id": "104453",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Treasure"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Draconic Disciple",
+    "quantity": 1,
+    "set_name": "Core Set 2019",
+    "collector_number": "215",
+    "rarity": "uncommon",
+    "scryfall_id": "a353510a-30de-4891-97b9-d7d556531c41",
+    "mana_box_id": "1097",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Shaman",
+    "oracle_text": "{T}: Add one mana of any color.\n{7}, {T}, Sacrifice this creature: Create a 5/5 red Dragon creature token with flying.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Bloomvine Regent // Claim Territory",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "136",
+    "rarity": "rare",
+    "scryfall_id": "10e0a9a3-f63a-4f92-a083-9d181580e498",
+    "mana_box_id": "104244",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever this creature or another Dragon you control enters, you gain 3 life.",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Savage Ventmaw",
+    "quantity": 1,
+    "set_name": "Foundations",
+    "collector_number": "665",
+    "rarity": "uncommon",
+    "scryfall_id": "50027d69-8bb0-444c-8e9b-4c9afd91cbda",
+    "mana_box_id": "100489",
+    "mana_cost": "{4}{R}{G}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Steel Hellkite",
+    "quantity": 1,
+    "set_name": "Foundations",
+    "collector_number": "681",
+    "rarity": "rare",
+    "scryfall_id": "931ad21b-a6bb-4a89-8d6f-80adfcf126c7",
+    "mana_box_id": "100838",
+    "mana_cost": "{6}",
+    "cmc": 6.0,
+    "type_line": "Artifact Creature — Dragon",
+    "oracle_text": "Flying\n{2}: This creature gets +1/+0 until end of turn.\n{X}: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by this creature this turn. Activate only once each turn.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Boulderborn Dragon",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "239",
+    "rarity": "common",
+    "scryfall_id": "50c6e815-bfe7-4599-9227-d36504a3640f",
+    "mana_box_id": "104292",
+    "mana_cost": "{5}",
+    "cmc": 5.0,
+    "type_line": "Artifact Creature — Dragon",
+    "oracle_text": "Flying, vigilance\nWhenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "power": "3",
+    "toughness": "3",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Flying",
+      "Surveil",
+      "Vigilance"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Sagu Wildling // Roost Seek",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "157",
+    "rarity": "common",
+    "scryfall_id": "d8b43b00-f4d1-436c-bf3f-6d414cd4ce38",
+    "mana_box_id": "104994",
+    "mana_cost": "{4}{G} // {G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon // Sorcery — Omen",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Tyrant's Familiar",
+    "quantity": 1,
+    "set_name": "Commander Anthology Volume II",
+    "collector_number": "125",
+    "rarity": "rare",
+    "scryfall_id": "08076c82-edb6-4c3c-abda-3d3ad7bdd78f",
+    "mana_box_id": "1612",
+    "mana_cost": "{5}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying, haste\nLieutenant — As long as you control your commander, this creature gets +2/+2 and has \"Whenever this creature attacks, it deals 7 damage to target creature defending player controls.\"",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Haste",
+      "Lieutenant"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Akoum Hellkite",
+    "quantity": 1,
+    "set_name": "Battle for Zendikar",
+    "collector_number": "139",
+    "rarity": "rare",
+    "scryfall_id": "ce837a65-a588-4b50-b298-f4ca37dbd06d",
+    "mana_box_id": "10212",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nLandfall — Whenever a land you control enters, this creature deals 1 damage to any target. If that land is a Mountain, this creature deals 2 damage instead.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Landfall",
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Scourge of Valkas",
+    "quantity": 1,
+    "set_name": "Forgotten Realms Commander",
+    "collector_number": "137",
+    "rarity": "mythic",
+    "scryfall_id": "e6bd7225-b39f-4b3b-8c36-dbc2c09f6e50",
+    "mana_box_id": "60899",
+    "mana_cost": "{2}{R}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever this creature or another Dragon you control enters, it deals X damage to any target, where X is the number of Dragons you control.\n{R}: This creature gets +1/+0 until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Runehorn Hellkite",
+    "quantity": 1,
+    "set_name": "Commander 2016",
+    "collector_number": "20",
+    "rarity": "rare",
+    "scryfall_id": "f5fd8668-900c-48d1-aac3-8355cfc0bb74",
+    "mana_box_id": "7334",
+    "mana_cost": "{5}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{5}{R}, Exile this card from your graveyard: Each player discards their hand, then draws seven cards.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Thunderbreak Regent",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "241",
+    "rarity": "rare",
+    "scryfall_id": "06624919-bb3e-458c-9301-0bb22d8b556c",
+    "mana_box_id": "104434",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, this creature deals 3 damage to that player.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragon Mage",
+    "quantity": 1,
+    "set_name": "Scourge",
+    "collector_number": "87",
+    "rarity": "rare",
+    "scryfall_id": "7687a201-0ecc-4739-86e3-3b4090d345a8",
+    "mana_box_id": "30601",
+    "mana_cost": "{5}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon Wizard",
+    "oracle_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Magmatic Hellkite",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "301",
+    "rarity": "rare",
+    "scryfall_id": "b8a8906f-8593-4ae8-ba65-f2a1cc4c8fa6",
+    "mana_box_id": "104907",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragonmaster Outcast",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "211",
+    "rarity": "mythic",
+    "scryfall_id": "a485edea-07cd-48dd-97e7-daeba85553d6",
+    "mana_box_id": "104857",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Shaman",
+    "oracle_text": "At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Dream Pillager",
+    "quantity": 1,
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "collector_number": "791",
+    "rarity": "rare",
+    "scryfall_id": "68c8d00f-23f3-429a-a99a-a6f3ec21c137",
+    "mana_box_id": "69548",
+    "mana_cost": "{5}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever this creature deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast spells from among those exiled cards.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Flameblast Dragon",
+    "quantity": 1,
+    "set_name": "Commander 2018",
+    "collector_number": "123",
+    "rarity": "rare",
+    "scryfall_id": "c66293df-a50e-4c64-9482-a2af68288d76",
+    "mana_box_id": "720",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhenever this creature attacks, you may pay {X}{R}. If you do, it deals X damage to any target.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Hoard-Smelter Dragon",
+    "quantity": 1,
+    "set_name": "Forgotten Realms Commander",
+    "collector_number": "128",
+    "rarity": "rare",
+    "scryfall_id": "2f4c5867-73c4-4e10-bbf5-6a69df879547",
+    "mana_box_id": "60663",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{3}{R}: Destroy target artifact. This creature gets +X/+0 until end of turn, where X is that artifact's mana value.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragonlord's Servant",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "210",
+    "rarity": "uncommon",
+    "scryfall_id": "be6fa0dc-74e7-4fad-9bdd-8e986612577a",
+    "mana_box_id": "104924",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Goblin Shaman",
+    "oracle_text": "Dragon spells you cast cost {1} less to cast.",
+    "power": "1",
+    "toughness": "3",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Demanding Dragon",
+    "quantity": 1,
+    "set_name": "Forgotten Realms Commander",
+    "collector_number": "120",
+    "rarity": "rare",
+    "scryfall_id": "4d8a5bab-813a-488a-ab65-3286582ef595",
+    "mana_box_id": "60704",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, it deals 5 damage to target opponent unless that player sacrifices a creature of their choice.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Mordant Dragon",
+    "quantity": 1,
+    "set_name": "Duel Decks: Knights vs. Dragons",
+    "collector_number": "58",
+    "rarity": "rare",
+    "scryfall_id": "b278baec-573a-4864-9bc5-4941ceb5adb2",
+    "mana_box_id": "19918",
+    "mana_cost": "{3}{R}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{1}{R}: This creature gets +1/+0 until end of turn.\nWhenever this creature deals combat damage to a player, you may have it deal that much damage to target creature that player controls.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Drakuseth, Maw of Flames",
+    "quantity": 1,
+    "set_name": "Foundations",
+    "collector_number": "193",
+    "rarity": "rare",
+    "scryfall_id": "029b1edb-e1de-4f1c-81df-8d17f4920318",
+    "mana_box_id": "100092",
+    "mana_cost": "{4}{R}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Flying\nWhenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",
+    "power": "7",
+    "toughness": "7",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragonkin Berserker",
+    "quantity": 1,
+    "set_name": "Kaldheim",
+    "collector_number": "131",
+    "rarity": "rare",
+    "scryfall_id": "e7f22fe4-2390-4c3d-8b5e-0cf398d97f6a",
+    "mana_box_id": "57127",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Berserker",
+    "oracle_text": "First strike\nBoast abilities you activate cost {1} less to activate for each Dragon you control.\nBoast — {4}{R}: Create a 5/5 red Dragon creature token with flying. (Activate only if this creature attacked this turn and only once each turn.)",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "First strike",
+      "Boast"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragonspeaker Shaman",
+    "quantity": 1,
+    "set_name": "Forgotten Realms Commander",
+    "collector_number": "330",
+    "rarity": "uncommon",
+    "scryfall_id": "7b0a2799-197e-4d61-ab23-67d974458a05",
+    "mana_box_id": "60772",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Barbarian Shaman",
+    "oracle_text": "Dragon spells you cast cost {2} less to cast.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Blossoming Defense",
+    "quantity": 1,
+    "set_name": "Kaladesh",
+    "collector_number": "146",
+    "rarity": "uncommon",
+    "scryfall_id": "5c026c39-b09c-408a-844f-fb5eb785862a",
+    "mana_box_id": "7497",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature you control gets +2/+2 and gains hexproof until end of turn.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Snakeskin Veil",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "159",
+    "rarity": "common",
+    "scryfall_id": "a3d2c692-7566-468e-9c86-47a9f768fde2",
+    "mana_box_id": "104856",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Sarkhan's Resolve",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "158",
+    "rarity": "common",
+    "scryfall_id": "cae56fef-b661-4bc5-b9a1-3871ae06e491",
+    "mana_box_id": "104952",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Target creature gets +3/+3 until end of turn.\n• Destroy target creature with flying.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Heritage Reclamation",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "145",
+    "rarity": "common",
+    "scryfall_id": "4f8fee37-a050-4329-8b10-46d150e7a95e",
+    "mana_box_id": "104636",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile up to one target card from a graveyard. Draw a card.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Piercing Exhale",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "151",
+    "rarity": "common",
+    "scryfall_id": "b2a0deb9-5bc3-42d5-9e1e-5f463d176aef",
+    "mana_box_id": "104891",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "As an additional cost to cast this spell, you may behold a Dragon. (You may choose a Dragon you control or reveal a Dragon card from your hand.)\nTarget creature you control deals damage equal to its power to target creature or planeswalker. If a Dragon was beheld, surveil 2.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Surveil",
+      "Behold"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Overwhelming Surge",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "115",
+    "rarity": "uncommon",
+    "scryfall_id": "bd7af85f-354e-468a-990b-bd774e68240f",
+    "mana_box_id": "105163",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one or both —\n• Overwhelming Surge deals 3 damage to target creature.\n• Destroy target noncreature artifact.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Magmaquake",
+    "quantity": 1,
+    "set_name": "Forgotten Realms Commander",
+    "collector_number": "133",
+    "rarity": "rare",
+    "scryfall_id": "8a8945b4-d2e1-4779-9c33-a8b062637fa6",
+    "mana_box_id": "60796",
+    "mana_cost": "{X}{R}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Magmaquake deals X damage to each creature without flying and each planeswalker.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Unleash Fury",
+    "quantity": 1,
+    "set_name": "Core Set 2021",
+    "collector_number": "170",
+    "rarity": "uncommon",
+    "scryfall_id": "e854e6a3-8684-43fa-9560-ef4c3b62c935",
+    "mana_box_id": "51053",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Double the power of target creature until end of turn.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Spit Flame",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "234",
+    "rarity": "rare",
+    "scryfall_id": "5fb4fa09-2864-4973-aa49-088043f6a6d1",
+    "mana_box_id": "104678",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Spit Flame deals 4 damage to target creature.\nWhenever a Dragon you control enters, you may pay {R}. If you do, return this card from your graveyard to your hand.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Narset's Rebuke",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "114",
+    "rarity": "common",
+    "scryfall_id": "5098bd73-d51c-4db4-bf06-fd4854089d37",
+    "mana_box_id": "104640",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Instant",
+    "oracle_text": "Narset's Rebuke deals 5 damage to target creature. Add {U}{R}{W}. If that creature would die this turn, exile it instead.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Hunter's Insight",
+    "quantity": 1,
+    "set_name": "Commander Masters",
+    "collector_number": "296",
+    "rarity": "uncommon",
+    "scryfall_id": "de399acd-e792-4f4a-8025-434f1080c0fc",
+    "mana_box_id": "84964",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Atarka Monument",
+    "quantity": 1,
+    "set_name": "Dragons of Tarkir",
+    "collector_number": "235",
+    "rarity": "uncommon",
+    "scryfall_id": "63d52217-a340-4567-9b07-28092a7dc561",
+    "mana_box_id": "11579",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add {R} or {G}.\n{4}{R}{G}: This artifact becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Commander's Sphere",
+    "quantity": 1,
+    "set_name": "Aetherdrift Commander",
+    "collector_number": "125",
+    "rarity": "common",
+    "scryfall_id": "3adcc4c3-9305-4394-a64f-fd0fa107cbf9",
+    "mana_box_id": "102989",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Dragon's Hoard",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "317",
+    "rarity": "rare",
+    "scryfall_id": "3ee80876-6e87-46c4-a6fd-ff6752db3032",
+    "mana_box_id": "104575",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "Whenever a Dragon you control enters, put a gold counter on this artifact.\n{T}, Remove a gold counter from this artifact: Draw a card.\n{T}: Add one mana of any color.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Dragonstorm Globe",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "241",
+    "rarity": "common",
+    "scryfall_id": "7f50aa6e-ce6a-4479-9725-202926245f2c",
+    "mana_box_id": "104767",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "Each Dragon you control enters with an additional +1/+1 counter on it.\n{T}: Add one mana of any color.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Fire-Rim Form",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "107",
+    "rarity": "common",
+    "scryfall_id": "32dc1bf4-a135-449f-848f-361a5360fae1",
+    "mana_box_id": "104537",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gains first strike until end of turn.\nEnchanted creature gets +2/+0.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Enchant",
+      "Flash"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Elemental Bond",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "254",
+    "rarity": "uncommon",
+    "scryfall_id": "8efbc925-54ac-4dda-82af-9091b1cf2fda",
+    "mana_box_id": "104801",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control with power 3 or greater enters, draw a card.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Garruk's Uprising",
+    "quantity": 1,
+    "set_name": "Foundations",
+    "collector_number": "220",
+    "rarity": "uncommon",
+    "scryfall_id": "4805c303-e73b-443b-a09f-49d2c2c88bb5",
+    "mana_box_id": "100447",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Crucible of Fire",
+    "quantity": 1,
+    "set_name": "Iconic Masters",
+    "collector_number": "122",
+    "rarity": "rare",
+    "scryfall_id": "d7a6f4dd-29c9-4084-a622-098b197a6eb7",
+    "mana_box_id": "3503",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Dragon creatures you control get +3/+3.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Fires of Yavimaya",
+    "quantity": 1,
+    "set_name": "Conspiracy",
+    "collector_number": "188",
+    "rarity": "uncommon",
+    "scryfall_id": "33283200-3d1a-41be-ad22-9fc7d56cff66",
+    "mana_box_id": "14232",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Creatures you control have haste.\nSacrifice this enchantment: Target creature gets +2/+2 until end of turn.",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": false
+  },
+  {
+    "name": "Dragon Tempest",
+    "quantity": 1,
+    "set_name": "Iconic Masters",
+    "collector_number": "125",
+    "rarity": "uncommon",
+    "scryfall_id": "f1933d08-07fe-45ea-9b60-d9afb98d5753",
+    "mana_box_id": "3500",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control with flying enters, it gains haste until end of turn.\nWhenever a Dragon you control enters, it deals X damage to any target, where X is the number of Dragons you control.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Frontier Siege",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "256",
+    "rarity": "rare",
+    "scryfall_id": "f419710e-3a73-4db0-bf2e-e76730f22c4d",
+    "mana_box_id": "105051",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Enchantment",
+    "oracle_text": "As this enchantment enters, choose Khans or Dragons.\n• Khans — At the beginning of each of your main phases, add {G}{G}.\n• Dragons — Whenever a creature you control with flying enters, you may have it fight target creature you don't control.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Fight"
+    ],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Mountain",
+    "quantity": 17,
+    "set_name": "Fate Reforged",
+    "collector_number": "183",
+    "rarity": "common",
+    "scryfall_id": "a7d5cb40-7365-492b-a3bc-4a624f78cec4",
+    "mana_box_id": "11943",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Mountain",
+    "oracle_text": "({T}: Add {R}.)",
+    "colors": [],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Timber Gorge",
+    "quantity": 1,
+    "set_name": "Core Set 2019",
+    "collector_number": "258",
+    "rarity": "common",
+    "scryfall_id": "07076412-18fe-4e15-bdb5-17111b4a66db",
+    "mana_box_id": "1054",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Rugged Highlands",
+    "quantity": 1,
+    "set_name": "Kamigawa: Neon Dynasty",
+    "collector_number": "273",
+    "rarity": "common",
+    "scryfall_id": "58d511be-60e0-4755-abec-18eebb530605",
+    "mana_box_id": "66877",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Game Trail",
+    "quantity": 1,
+    "set_name": "Bloomburrow Commander",
+    "collector_number": "306",
+    "rarity": "rare",
+    "scryfall_id": "e42e3260-33d7-4cee-8cac-61ed006abf3e",
+    "mana_box_id": "96503",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "As this land enters, you may reveal a Mountain or Forest card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Kazandu Refuge",
+    "quantity": 1,
+    "set_name": "Commander 2019",
+    "collector_number": "256",
+    "rarity": "uncommon",
+    "scryfall_id": "6ca097f1-eef0-4e18-ab5d-49bb4aeb74e2",
+    "mana_box_id": "45678",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Cinder Glade",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "350",
+    "rarity": "rare",
+    "scryfall_id": "d78f519f-28f7-4e53-9cb1-1a83577c1669",
+    "mana_box_id": "104991",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land — Mountain Forest",
+    "oracle_text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Command Tower",
+    "quantity": 1,
+    "set_name": "The Lost Caverns of Ixalan Commander",
+    "collector_number": "325",
+    "rarity": "common",
+    "scryfall_id": "d477d733-2360-4f1d-9ecd-cdedc2e8a7ae",
+    "mana_box_id": "88927",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Temple of Abandon",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "400",
+    "rarity": "rare",
+    "scryfall_id": "d2ce0759-6b24-41a6-8a24-16cf44dfc162",
+    "mana_box_id": "104979",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Haven of the Spirit Dragon",
+    "quantity": 1,
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "collector_number": "370",
+    "rarity": "rare",
+    "scryfall_id": "d0c552da-874e-49eb-b221-47220b8b7786",
+    "mana_box_id": "104973",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Dragon creature spell.\n{2}, {T}, Sacrifice this land: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Shivan Oasis",
+    "quantity": 1,
+    "set_name": "Duel Decks: Phyrexia vs. the Coalition",
+    "collector_number": "65",
+    "rarity": "uncommon",
+    "scryfall_id": "6d11de19-fb40-4dc6-ad61-3b7e95163c0b",
+    "mana_box_id": "21976",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {R} or {G}.",
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": false,
+    "modern_legal": true
+  },
+  {
+    "name": "Forest",
+    "quantity": 12,
+    "set_name": "Dragons of Tarkir",
+    "collector_number": "264",
+    "rarity": "common",
+    "scryfall_id": "67becef5-cd70-4fe9-b8a3-1bff2ea04ab4",
+    "mana_box_id": "11550",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Forest",
+    "oracle_text": "({T}: Add {G}.)",
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  },
+  {
+    "name": "Twin Bolt",
+    "quantity": 2,
+    "set_name": "Tarkir: Dragonstorm",
+    "collector_number": "128",
+    "rarity": "common",
+    "scryfall_id": "688d8e93-d071-4089-9ef9-565ac4ae9ae0",
+    "mana_box_id": "105137",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Twin Bolt deals 2 damage divided as you choose among one or two targets.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "commander_legal": true,
+    "standard_legal": true,
+    "modern_legal": true
+  }
+]

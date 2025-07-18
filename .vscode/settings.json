@@ -1,0 +1,24 @@
+{
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "python.linting.enabled": false,
+    "python.formatting.provider": "none",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports.ruff": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "ruff.enable": true,
+    "ruff.organizeImports": true,
+    "ruff.fixAll": true,
+    "ruff.format.args": ["--line-length=79"],
+    "ruff.lint.args": ["--line-length=79"],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.rulers": [79],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 79
+}
